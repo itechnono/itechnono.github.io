@@ -277,6 +277,7 @@ body{
 
 .service-item{
   width: 33.3%;
+  list-style: none;
 }
 
 .service-item a{
@@ -290,6 +291,7 @@ body{
   font-weight: bold;
   font-style: italic;
   transition: .3s;
+  list-style-type: none;
 }
 
 .service-item a:hover{
